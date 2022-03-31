@@ -13,7 +13,6 @@ A digital diary that allows users to keep track of their written thoughts every 
 
 | Name | Section | Lab# | Email |
 | ---- | ---- | ---- | ---- | 
-| Susan-Ngoc Nguyen | N | 4 | sn98@my.yorku.ca |
 | Adam Farah | N | 2 | adamlurk@my.yorku.ca |
 | Abdihakim Gaal | N | 3 | abdigaal@my.yorku.ca |
 | Sheraz Saeed | N | 4 | sheraz8@my.yorku.ca |
